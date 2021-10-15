@@ -1,0 +1,45 @@
+.text-area{
+    width: 400px;
+    margin-bottom: .3rem;
+}
+
+footer{
+    text-align: center;
+}
+
+section{
+    background-color: #eee;
+    text-align: center;
+}
+
+div{
+    margin: .2rem;
+}
+.card1{
+    float: left;
+    height: 90px;
+    width: 35%;
+    background-color: #ccc;
+    text-align: center;
+}
+
+li{
+    list-style: none;
+}
+
+.card2{
+    float: left;
+    height: 90px;
+    width: 20%;
+    background-color: #bbb;
+    text-align: center;
+}
+
+.card3{
+    float: left;
+    height: 90px;
+    width: 43%;
+    background-color: #ddd;
+    text-align: center;
+    
+}
